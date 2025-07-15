@@ -47,7 +47,7 @@ export default function Portfolio() {
     databases: ['PostgreSQL', 'MySQL', 'MongoDB', 'Oracle'],
     tools: ['Docker', 'Kubernetes', 'Jenkins', 'Git'],
     testing: ['Selenium', 'JUnit', 'Functional Testing'],
-    monitoring: ['ELK Stack', 'Grafana', 'Prometheus', 'Splunk'],
+    monitoring: ['ELK Stack', 'Grafana', 'Prometheus', 'Loki', 'Grafana Alloy'],
   }
 
   const projects = [
